@@ -3,12 +3,26 @@ decorations = "Buttonless"
 opacity = 1.93
 blur = true
 
+# [font]
+# size = 14.0
+# normal.family = "FiraCode Nerd Font"
+# bold.family = "FiraCode Nerd Font"
+# italic.family = "FiraCode Nerd Font"
+# bold_italic.family = "FiraCode Nerd Font"
+
+# [font]
+# size = 14.0
+# normal.family = "BigBlueTerm437 Nerd Font"
+# bold.family = "BigBlueTerm437 Nerd Font"
+# italic.family = "BigBlueTerm437 Nerd Font"
+# bold_italic.family = "BigBlueTerm437 Nerd Font"
+
 [font]
 size = 14.0
-normal.family = "FiraCode Nerd Font"
-bold.family = "FiraCode Nerd Font"
-italic.family = "FiraCode Nerd Font"
-bold_italic.family = "FiraCode Nerd Font"
+normal.family = "BigBlueTermPlus Nerd Font"
+bold.family = "BigBlueTermPlus Nerd Font"
+italic.family = "BigBlueTermPlus Nerd Font"
+bold_italic.family = "BigBlueTermPlus Nerd Font"
 
 #GITHUB THEME
 
